@@ -65,13 +65,13 @@ export const ResponsiveNav = styled.div<Props>`
         ul{
             flex-direction: column;
             background-color: rgba(48,162,242, 0.95);
-            width: 50%;
-            height: 100%;
+            width: 100%;
             position: absolute;
             z-index: 2;
-            top:0;
-            right: ${(props) => props.navbarState ? '0px': '-100%'};
+            top: ${(props)=> props.navbarState ? "0px" : '-100%'};
+            right: 0;
             padding-top: 6rem;
+            padding-bottom: 6rem;
             justify-content: right;            
 
             li{

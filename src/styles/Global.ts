@@ -4,6 +4,7 @@ export const GloalStyle = createGlobalStyle `
 :root{
     --black:#000000;
     --blue: #005EFA; 
+    --green: #3CEB77;
   }
 
   * {

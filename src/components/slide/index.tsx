@@ -7,7 +7,7 @@ export function Slide() {
         <div className="content">
             <div className="sensor">
                 <h1>Monitoramento Online e Gestão  de Ativos em um só lugar</h1>
-                <img src={sensor} alt="" />
+                <img src={sensor} alt="sensor" />
             </div>
         </div>
         <div className="demonstration">

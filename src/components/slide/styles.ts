@@ -65,7 +65,7 @@ export const Container = styled.div`
             }
 
         a {
-            background-color: #3CEB77;
+            background-color:var(--green);
             border-radius: 5px;
             border: none;
             padding: 12px;
