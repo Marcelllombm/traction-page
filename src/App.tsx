@@ -2,6 +2,8 @@ import { GloalStyle } from "./styles/Global";
 import {Header} from './components/Header';
 import { Performace } from "./components/Performance";
 import { Security } from "./components/Security";
+import { Depositions } from "./components/Depositions";
+import { Choice } from "./components/Choice";
 export function App() {
   return (
     <>
@@ -9,7 +11,8 @@ export function App() {
       <Header />
       <Performace />
       <Security />
-      
+      <Depositions />
+      <Choice />
     </>
   );
 }
