@@ -10,7 +10,7 @@ export function Nav() {
         <Container>
             <div className="toggle ">
                 {navbarState ? (
-                    <VscChromeClose size={25} onClick={()=>{ setNavbarState(false)}} />
+                    <VscChromeClose size={35} onClick={()=>{ setNavbarState(false)}} />
                 )
                 :(
                     <GiHamburgerMenu size={25} onClick={()=>{ setNavbarState(true)}} />

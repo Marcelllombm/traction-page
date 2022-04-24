@@ -1,5 +1,6 @@
 import { Container } from "./styles";
 import { Nav } from "../Nav";
+import { Slide } from "../slide";
 
 export function Header() {
   return (
@@ -7,6 +8,7 @@ export function Header() {
         <div>
             <img src={require(`../../assets/logotipo.svg`).default} alt="logo" />
             <Nav />
+            <Slide/>
         </div>
     </Container>
   )

@@ -5,6 +5,8 @@ type Props = {
 }
 
 export const Container = styled.nav`
+    max-width:1366px;
+    margin: 10px auto;
 
     .toggle, .secondaryNav {
         display: none;
@@ -29,7 +31,7 @@ export const Container = styled.nav`
                                 padding: 10px ;
                                 border-radius: 5px;
                                 color:white;
-                                
+                                font-weight: bold;
                             }  
                     }
             }
@@ -62,7 +64,7 @@ export const ResponsiveNav = styled.div<Props>`
  
         ul{
             flex-direction: column;
-            background-color: rgba(48,162,242, 0.7);
+            background-color: rgba(48,162,242, 0.95);
             width: 50%;
             height: 100%;
             position: absolute;
