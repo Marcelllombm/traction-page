@@ -39,7 +39,7 @@ export const Container = styled.section `
             border-top: 10px solid white;
             border-left: 10px solid white;
             color:white;
-            max-width: 600px;
+            max-width: 400px;
             font-family: 'Inder', sans-serif;
         }
 

@@ -9,13 +9,13 @@ export const Container = styled.section`
         text-align: center;
 
         h1{
-            margin: 45px auto;
+            margin: 100px auto 50px auto;
             font-size: 1.5rem;
             text-align: center;
             padding: 20px;
             border-top: 10px solid #005EFA;
             border-left: 10px solid #005EFA;
-            max-width: 600px;
+            max-width: 400px;
             font-family: 'Inder', sans-serif;
         }
 

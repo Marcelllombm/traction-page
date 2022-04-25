@@ -16,7 +16,7 @@ export const Container = styled.section`
                 border-top: 10px solid var(--blue);
                 border-left: 10px solid var(--blue);
                 color:var(--black);
-                max-width: 600px;
+                max-width: 400px;
                 font-family: 'Inder', sans-serif;
         }
         div{

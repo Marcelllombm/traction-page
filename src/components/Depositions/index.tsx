@@ -25,7 +25,7 @@ export function Depositions() {
             <div>
                 <img src={fotoMascuulino} alt="homeml"/>
                 <h3>Tiago João</h3>
-                <h6>Supervisor de Manutenção Geral - AmstedMaxion</h6>
+                <h6>Supervisor de Manutenção Geral </h6>
                 <p>Antes da Tractian, a falha acontecia sem que nós tivéssemos nenhuma
  chance de reação. Agora nós conseguimos
  identificar qualquer anomalia fora do normal e isso nos 
@@ -35,7 +35,7 @@ permite fazer a intervenção antes que a quebra aconteça.</p>
             <div>
                 <img src={fotoMascuulino} alt="homeml"/>
                 <h3>Tiago Lucas</h3>
-                <h6>Supervisor de Manutenção Geral - AmstedMaxion</h6>
+                <h6>Supervisor de Manutenção Geral </h6>
                 <p>Antes da Tractian, a falha acontecia sem que nós tivéssemos nenhuma
  chance de reação. Agora nós conseguimos
  identificar qualquer anomalia fora do normal e isso nos 
@@ -45,7 +45,7 @@ permite fazer a intervenção antes que a quebra aconteça.</p>
             <div>
                 <img src={fotoMascuulino} alt="homeml"/>
                 <h3>Tiago Pedro</h3>
-                <h6>Supervisor de Manutenção Geral - AmstedMaxion</h6>
+                <h6>Supervisor de Manutenção Geral </h6>
                 <p>Antes da Tractian, a falha acontecia sem que nós tivéssemos nenhuma
  chance de reação. Agora nós conseguimos
  identificar qualquer anomalia fora do normal e isso nos 
@@ -55,7 +55,7 @@ permite fazer a intervenção antes que a quebra aconteça.</p>
             <div>
                 <img src={fotoMascuulino} alt="homeml"/>
                 <h3>Tiago Mateus</h3>
-                <h6>Supervisor de Manutenção Geral - AmstedMaxion</h6>
+                <h6>Supervisor de Manutenção Geral </h6>
                 <p>Antes da Tractian, a falha acontecia sem que nós tivéssemos nenhuma
  chance de reação. Agora nós conseguimos
  identificar qualquer anomalia fora do normal e isso nos 

@@ -82,8 +82,7 @@ export const Container = styled.section`
         }
 
         div{
-            width: 100%;
-            padding: 0;
+            width: 100%;  
         }
     }
 

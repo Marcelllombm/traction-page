@@ -4,6 +4,7 @@ import { Performace } from "./components/Performance";
 import { Security } from "./components/Security";
 import { Depositions } from "./components/Depositions";
 import { Choice } from "./components/Choice";
+import { Footer } from './components/Footer';
 export function App() {
   return (
     <>
@@ -13,6 +14,7 @@ export function App() {
       <Security />
       <Depositions />
       <Choice />
+      <Footer />
     </>
   );
 }
