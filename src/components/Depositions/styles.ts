@@ -52,6 +52,8 @@ export const Container = styled.section`
         font-size: 15px;
     }
 
-
+    .slick-next {
+    right: 0;
+    }
 `;
 

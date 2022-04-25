@@ -5,7 +5,9 @@ import { Security } from "./components/Security";
 import { Depositions } from "./components/Depositions";
 import { Choice } from "./components/Choice";
 import { Footer } from './components/Footer';
+
 export function App() {
+  
   return (
     <>
       <GloalStyle />
