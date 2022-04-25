@@ -27,13 +27,7 @@
 
 ```
 # Clone this repository
-$ git clone git@github.com:Marcelllombm/meusprojetos.git
-
-# Go into the repository
-$ cd meusprojetos
-
-# Enter the branch traction-page
-$ git checkout traction-page
+$ git clone git@github.com:Marcelllombm/traction-page.git
 
 # enter the folder
 $ cd traction-page
